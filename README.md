@@ -1,1 +1,4 @@
-# Portfolio
+ Portfolio
+ Got it! Here's a refined paragraph specifically about the **Portfolio Website**:
+ Portfolio Overview
+This is my personal portfolio website, built to showcase my skills, projects, and accomplishments. The website is designed using **HTML**, **CSS**, and **JavaScript** for a clean, responsive, and user-friendly interface. I utilized **VS Code** as my primary development environment, and the project is hosted locally using the **Live Server** extension for easy previewing. The website highlights my work in various fields, including Web Development and Machine Learning, and serves as a reflection of my journey as an Electronics and Communication Engineering student. Through this portfolio, I aim to present my technical abilities, creativity, and passion for technology. Feel free to explore the projects and get in touch!
